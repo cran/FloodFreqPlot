@@ -1,0 +1,1 @@
+utils::globalVariables(c('x_bar', 's_x', 'C_s', 'y_bar', 's_y', 'C_sy'))
